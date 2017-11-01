@@ -1,6 +1,6 @@
 {
   "name": "carousel-manager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This library improves on the foundation carousel, without giving away any of the power provided by foundation.",
   "main": "index.js",
   "scripts": {
