@@ -1,0 +1,38 @@
+{
+  "name": "carousel-manager",
+  "version": "0.0.1",
+  "description": "This library improves on the foundation carousel, without giving away any of the power provided by foundation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itmayziii/carousel-manager.git"
+  },
+  "keywords": [
+    "foundation",
+    "carousel",
+    "flexibility",
+    "options",
+    "custom",
+    "controls"
+  ],
+  "author": "tommymay37@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itmayziii/carousel-manager/issues"
+  },
+  "homepage": "https://github.com/itmayziii/carousel-manager#readme",
+  "devDependencies": {
+    "foundation-sites": "^6.4.3",
+    "jquery": "^3.2.1",
+    "ts-loader": "^3.1.1",
+    "typescript": "^2.6.1",
+    "webpack": "^3.8.1"
+  },
+  "peerDependencies": {
+    "jquery": "^3.2.1",
+    "foundation-sites": "^6.4.3"
+  }
+}
